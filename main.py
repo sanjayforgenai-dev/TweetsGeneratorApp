@@ -32,4 +32,10 @@ if st.button("Generate"):
     tweets = tweet_chain.invoke({"number" : number, "topic" : topic})
     st.write(tweets.content)
     
+# Footer
+st.sidebar.markdown("---")
+st.sidebar.markdown(
+    "Built by **Sanjaykumar** 🚀 🚀 🚀 \n"
+    "[LinkedIn](https://www.linkedin.com/in/sanjayforbi/)"
+)
     
