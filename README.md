@@ -1,21 +1,21 @@
 # TweetsGeneratorApp
 📌 Overview
-
+Its an App That  Generates Up to 10 Tweets on Given Particular Topic of your interest.
 The GenAI Twitter Generation App leverages Generative AI to help creators, marketers, founders, and professionals quickly generate high-quality tweets on any topic of interest.
 
-Just enter a topic — and the app instantly generates 5 unique, relevant, and engaging tweets tailored to your input
-Its an App That  Generates Up to 10 Tweets on Given Particular Topic of your interest.
+Just enter a topic — and the app instantly generates upto 10 unique, relevant, and engaging tweets tailored to your input
+
 
 💡 What Exactly This App does:
 * Enter a topic of your interset
-* Choose the number of tweets (1 -5)
+* Choose the number of tweets (1 -10)
 * Get AI-generated tweets instantly
 
 🎯 How It Works
 
 * User enters a topic (e.g., Artificial Intelligence, Startup Growth, Fitness Tips).
 * The AI model processes the prompt.
-* The app generates 5 concise, engaging tweets.
+* The app generates upto 10 concise, engaging tweets.
 * User can copy and post directly to Twitter (X).
 
 📸 Sample Output
